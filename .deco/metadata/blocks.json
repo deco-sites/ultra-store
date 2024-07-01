@@ -144,5 +144,9 @@
     "path": "/vendor/:vendor",
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FMiscellaneous%2FCampaignTimer.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Miscellaneous/CampaignTimer.tsx"
   }
 }
