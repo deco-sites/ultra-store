@@ -138,5 +138,11 @@
   "/.deco/blocks/Header.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Header/Header.tsx"
+  },
+  "/.deco/blocks/pages-Vendor-15170.json": {
+    "name": "Vendor",
+    "path": "/vendor/:vendor",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
   }
 }
