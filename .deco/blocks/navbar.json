@@ -28,12 +28,6 @@
       "url": "/woman",
       "name": "Woman",
       "children": []
-    },
-    {
-      "@type": "SiteNavigationElement",
-      "url": "/vendor/vendor",
-      "name": "Men",
-      "children": []
     }
   ],
   "__resolveType": "commerce/loaders/navbar.ts"
