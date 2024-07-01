@@ -31,20 +31,8 @@
     },
     {
       "@type": "SiteNavigationElement",
-      "url": "/men",
+      "url": "/vendor/vendor",
       "name": "Men",
-      "children": []
-    },
-    {
-      "@type": "SiteNavigationElement",
-      "url": "/clearance",
-      "name": "Clearance",
-      "children": []
-    },
-    {
-      "@type": "SiteNavigationElement",
-      "url": "/activities",
-      "name": "Activities",
       "children": []
     }
   ],
