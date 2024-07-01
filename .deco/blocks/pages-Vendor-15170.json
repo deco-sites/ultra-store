@@ -4,6 +4,12 @@
   "sections": [
     {
       "__resolveType": "Campaign Timer - 02"
+    },
+    {
+      "__resolveType": "Category Banner - 01"
+    },
+    {
+      "__resolveType": "Footer"
     }
   ],
   "seo": {
