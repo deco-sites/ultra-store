@@ -3,6 +3,9 @@
   "path": "/vendor/:vendor",
   "sections": [
     {
+      "__resolveType": "Header"
+    },
+    {
       "__resolveType": "Campaign Timer - 02"
     },
     {
